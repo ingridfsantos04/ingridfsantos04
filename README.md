@@ -1,8 +1,6 @@
 # 👩🏻‍💻 Ingrid Ferreira
 
 **`Desenvolvedora de Software`**
-<br/>
-**`System.out.println("Welcome to my github!😆`**
 
 Me chamo Ingrid Ferreira, tenho 21 anos e sou de São Paulo/Zona Leste. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na São Judas Tadeu. 
 
