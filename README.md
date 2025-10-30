@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Ingrid Ferreira
 
-**`Desenvolvedora de Software`**
+**`Desenvolvedora de FrontEnd`**
 
 Me chamo Ingrid Ferreira, tenho 22 anos e sou de São Paulo/Zona Leste. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na São Judas Tadeu. 
 
