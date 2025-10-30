@@ -2,7 +2,7 @@
 
 **`Desenvolvedora de Software`**
 
-Me chamo Ingrid Ferreira, tenho 21 anos e sou de São Paulo/Zona Leste. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na São Judas Tadeu. 
+Me chamo Ingrid Ferreira, tenho 22 anos e sou de São Paulo/Zona Leste. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na São Judas Tadeu. 
 
 ### 🤖 Linguagens e Tecnologias
 
