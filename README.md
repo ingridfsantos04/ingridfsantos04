@@ -12,10 +12,10 @@ Atualmente atuo como Analista de TI e venho direcionando meus estudos e prática
 
 #### **IA, Automação & Ferramentas**
 <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-  <img src="https://simpleicons.org/icons/n8n.svg" alt="n8n" width="40" height="40" style="background-color: white; border-radius: 6px; padding: 4px;"/>
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" alt="n8n" width="40" style="background-color: white; border-radius: 8px; padding: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-right: 5px;"/>
 </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" style="margin-left: 5px;"/>
 </a>
 
 <br/><br/>
