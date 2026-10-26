@@ -18,9 +18,7 @@
 
 ## 👋 Sobre mim
 
-Sou formada em **Análise e Desenvolvimento de Sistemas**, moro em São Paulo/SP e atuo como **Analista de TI**. Nos últimos tempos, tenho direcionado minha prática para **Inteligência Artificial e Automação**: criação de agentes de IA de voz e texto, workflows automatizados e integração de APIs.
-
-Gosto de pegar problemas do dia a dia, como tarefas repetitivas e processos manuais, e transformá-los em soluções simples e funcionais.
+Sou formada em **Análise e Desenvolvimento de Sistemas**, moro em São Paulo/SP e atuo como **Analista de TI**. Nos últimos tempos, tenho direcionado minha prática para **Inteligência Artificial e Automação**: criação de agentes de IA de voz e Prompts, workflows automatizados e integração de APIs.
 
 ---
 
