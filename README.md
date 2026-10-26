@@ -47,36 +47,18 @@ Gosto de pegar problemas do dia a dia, como tarefas repetitivas e processos manu
 - ✍️ **Engenharia de Prompt:** estruturação de prompts para orientar o comportamento dos agentes.
 - ⚡ **Automação com n8n:** workflows que automatizam processos e conectam serviços.
 - 🔌 **Integração de APIs:** testes e consumo de APIs com **Postman**, **JavaScript** e **Python**.
-- 🖥️ **Desenvolvimento de sistemas:** aplicações web completas com autenticação, banco de dados na nuvem e dashboards interativos.
 
 ---
 
 ## 📂 Projeto em destaque
 
-### 💰 Meu Financeiro
+### 💰 [OrganizaGrana](https://organizagrana.streamlit.app/)
 
-> Sistema web de gestão financeira pessoal, com painel de patrimônio, investimentos em tempo real, cartão de crédito, contas fixas e metas.
-
-**O problema que resolve:** reunir em um só lugar tudo o que normalmente fica espalhado em planilhas e aplicativos: investimentos, cartão, contas a pagar, dinheiro emprestado e metas.
-
-**Principais funcionalidades**
-
-- 📊 **Visão Geral e Diagnóstico:** saldo livre do mês, receitas, despesas, evolução dos últimos 6 meses e dicas automáticas de melhoria.
-- 📈 **Carteira de investimentos:** ações, FIIs, renda fixa, cripto e dólar, com cotações em tempo real, preço médio automático, histórico de vendas e radar de oportunidades.
-- 💸 **Dividendos:** agenda de proventos com sincronização automática com a carteira e confirmação de recebimento.
-- 💳 **Cartão de crédito:** faturas por mês, compras parceladas, cashback e projeção das próximas faturas.
-- 📅 **Contas fixas:** calendário de vencimentos com status de pago, pendente e atrasado.
-- 🤝 **Devedores:** controle de parcelas a receber, com cálculo de atraso pela data de vencimento.
-- 🎯 **Metas:** acompanhamento de metas de patrimônio e de renda passiva.
-
-**Destaques técnicos**
-
-- 🔐 Autenticação por usuário com **Supabase Auth** e sessão persistente.
-- 🗄️ Dados isolados por usuário no banco de dados em nuvem.
-- ⚡ Cotações ao vivo com múltiplas fontes de dados e sistema de cache.
-- 📱 Interface responsiva, com design system próprio e gráficos interativos.
+Sistema web de gestão financeira pessoal, que reúne em um só lugar investimentos, cartão de crédito, contas fixas, dívidas a receber e metas.
 
 **Tecnologias:** `Python` · `Streamlit` · `Supabase` · `Pandas` · `Plotly`
+
+🔗 **[Acessar o sistema](https://organizagrana.streamlit.app/)**
 
 ---
 
