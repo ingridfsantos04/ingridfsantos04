@@ -30,6 +30,11 @@ Gosto de pegar problemas do dia a dia, como tarefas repetitivas e processos manu
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -41,7 +46,37 @@ Gosto de pegar problemas do dia a dia, como tarefas repetitivas e processos manu
 - 💬 **Agentes de IA de texto:** agentes e chatbots com LLMs, com comportamento definido por prompts estruturados.
 - ✍️ **Engenharia de Prompt:** estruturação de prompts para orientar o comportamento dos agentes.
 - ⚡ **Automação com n8n:** workflows que automatizam processos e conectam serviços.
-- 🔌 **Integração de APIs:** testes e consumo de APIs com **Postman** e **JavaScript**.
+- 🔌 **Integração de APIs:** testes e consumo de APIs com **Postman**, **JavaScript** e **Python**.
+- 🖥️ **Desenvolvimento de sistemas:** aplicações web completas com autenticação, banco de dados na nuvem e dashboards interativos.
+
+---
+
+## 📂 Projeto em destaque
+
+### 💰 Meu Financeiro
+
+> Sistema web de gestão financeira pessoal, com painel de patrimônio, investimentos em tempo real, cartão de crédito, contas fixas e metas.
+
+**O problema que resolve:** reunir em um só lugar tudo o que normalmente fica espalhado em planilhas e aplicativos: investimentos, cartão, contas a pagar, dinheiro emprestado e metas.
+
+**Principais funcionalidades**
+
+- 📊 **Visão Geral e Diagnóstico:** saldo livre do mês, receitas, despesas, evolução dos últimos 6 meses e dicas automáticas de melhoria.
+- 📈 **Carteira de investimentos:** ações, FIIs, renda fixa, cripto e dólar, com cotações em tempo real, preço médio automático, histórico de vendas e radar de oportunidades.
+- 💸 **Dividendos:** agenda de proventos com sincronização automática com a carteira e confirmação de recebimento.
+- 💳 **Cartão de crédito:** faturas por mês, compras parceladas, cashback e projeção das próximas faturas.
+- 📅 **Contas fixas:** calendário de vencimentos com status de pago, pendente e atrasado.
+- 🤝 **Devedores:** controle de parcelas a receber, com cálculo de atraso pela data de vencimento.
+- 🎯 **Metas:** acompanhamento de metas de patrimônio e de renda passiva.
+
+**Destaques técnicos**
+
+- 🔐 Autenticação por usuário com **Supabase Auth** e sessão persistente.
+- 🗄️ Dados isolados por usuário no banco de dados em nuvem.
+- ⚡ Cotações ao vivo com múltiplas fontes de dados e sistema de cache.
+- 📱 Interface responsiva, com design system próprio e gráficos interativos.
+
+**Tecnologias:** `Python` · `Streamlit` · `Supabase` · `Pandas` · `Plotly`
 
 ---
 
@@ -58,7 +93,3 @@ Gosto de pegar problemas do dia a dia, como tarefas repetitivas e processos manu
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ingridfsantos04&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="Estatísticas do GitHub"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridfsantos04&layout=compact&hide_border=true&theme=transparent" alt="Linguagens mais usadas"/>
 </p>
-
----
-
-<p align="center">📫 Vamos conversar sobre IA e automação? Me chame no <a href="https://www.linkedin.com/in/ingridfsantos04">LinkedIn</a>!</p>
