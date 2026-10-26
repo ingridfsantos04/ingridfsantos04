@@ -1,42 +1,73 @@
-# 👩🏻‍💻 Ingrid Ferreira
+<h1 align="center">👩🏻‍💻 Ingrid Ferreira</h1>
 
-**`Analista de TI | IA & Automação`**
+<p align="center">
+  <b>Analista de TI | IA & Automação</b><br>
+  Transformando processos manuais em fluxos inteligentes com agentes de IA e automação.
+</p>
 
-Olá! Me chamo **Ingrid Ferreira**, tenho 22 anos, sou de São Paulo/SP e formada em **Análise e Desenvolvimento de Sistemas**.
-
-Atualmente atuo como Analista de TI e venho direcionando meus estudos e prática para a área de Inteligência Artificial e Automação. Estou no início dessa jornada, buscando aprender continuamente e aplicar conceitos de agentes de IA, fluxos automatizados e integração de APIs no meu dia a dia.
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-#### **IA, Automação & Ferramentas**
-
-<a href="https://n8n.io/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="40" height="40"/>
-</a>
-&nbsp;
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-</a>
-
-#### **Linguagens**
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ingridfsantos04">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:[SEU-EMAIL]">
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
+</p>
 
 ---
 
-### 🚀 O que venho praticando e construindo
+## 👋 Sobre mim
 
-- 🤖 **Agentes de IA:** criação de agentes de voz e texto utilizando ferramentas como **ElevenLabs** e LLMs.
-- ✍️ **Engenharia de Prompt:** construção e estruturação de prompts para orientar o comportamento de agentes de IA.
-- ⚡ **Automação no n8n:** criação de workflows para automatizar processos e conectar serviços.
-- 🔌 **Integração de APIs:** testes, requisições e consumo de APIs com o **Postman** e scripts simples em **JavaScript**.
+Sou formada em **Análise e Desenvolvimento de Sistemas**, moro em São Paulo/SP e atuo como **Analista de TI**. Nos últimos tempos, tenho direcionado minha prática para **Inteligência Artificial e Automação**: criação de agentes de IA, workflows automatizados e integração de APIs.
+
+Gosto de pegar problemas do dia a dia, como tarefas repetitivas e processos manuais, e transformá-los em soluções simples e funcionais.
 
 ---
 
-📫 **Vamos nos conectar?**
+## 🛠️ Tecnologias & Ferramentas
 
-- **LinkedIn:** [Ingrid Ferreira](https://www.linkedin.com/in/ingridfsantos04)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 O que venho construindo
+
+- 🤖 **Agentes de IA:** agentes de voz e texto com **ElevenLabs** e LLMs.
+- ✍️ **Engenharia de Prompt:** estruturação de prompts para orientar o comportamento dos agentes.
+- ⚡ **Automação com n8n:** workflows que automatizam processos e conectam serviços.
+- 🔌 **Integração de APIs:** testes e consumo de APIs com **Postman** e **JavaScript**.
+
+---
+
+## 📂 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| 🔗 [**NOME DO PROJETO 1**](LINK) | [O que ele faz e qual problema resolve, em 1 linha] | n8n, API, LLM |
+| 🔗 [**NOME DO PROJETO 2**](LINK) | [O que ele faz e qual problema resolve, em 1 linha] | ElevenLabs, JavaScript |
+| 🔗 [**NOME DO PROJETO 3**](LINK) | [O que ele faz e qual problema resolve, em 1 linha] | Postman, JavaScript |
+
+---
+
+## 🌱 Aprendendo agora
+
+- Agentes de IA com múltiplas ferramentas (tool calling)
+- [Ex: RAG, Python, LangChain, Docker...]
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&hide_border=true&count_private=true" alt="Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO]&layout=compact&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+<p align="center">📫 Vamos conversar sobre IA e automação? Me chame no <a href="https://www.linkedin.com/in/ingridfsantos04">LinkedIn</a>!</p>
