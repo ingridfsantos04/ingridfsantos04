@@ -25,12 +25,13 @@ Sou formada em **Análise e Desenvolvimento de Sistemas**, moro em **São Paulo/
 
 ## 🎯 Foco profissional
 
-| | |
+| Área | Atuação |
 |:---|:---|
-| **🤖 Agentes de IA** | Agentes conversacionais de voz e texto com LLMs |
-| **✍️ Engenharia de Prompt** | Prompts estruturados para comportamento consistente |
-| **⚡ Automação** | Processos manuais transformados em fluxos automatizados |
-| **🔌 Integração de APIs** | Testes, documentação e consumo de APIs |
+| 🎙️ **Agentes de voz** | Assistentes com conversas naturais, criados com ElevenLabs e LLMs |
+| 🤖 **Agentes de texto** | Chatbots com comportamento definido por prompts estruturados |
+| ✍️ **Engenharia de Prompt** | Instruções claras e consistentes para respostas confiáveis |
+| ⚡ **Automação** | Processos manuais convertidos em fluxos automatizados com n8n |
+| 🔌 **Integração de APIs** | Testes, documentação e consumo de APIs com Postman |
 
 ---
 
@@ -52,10 +53,6 @@ Sou formada em **Análise e Desenvolvimento de Sistemas**, moro em **São Paulo/
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ingridfsantos04&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="Estatísticas do GitHub"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ingridfsantos04&hide_border=true&theme=transparent" alt="Sequência de contribuições"/>
