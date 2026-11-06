@@ -62,6 +62,10 @@ Sou formada em **Análise e Desenvolvimento de Sistemas**, moro em **São Paulo/
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=800&color=3FB950&center=true&vCenter=true&width=800&height=40&lines=Transformando+processos+manuais+em+fluxos+inteligentes;Aprendendo+sempre+sobre+IA+aplicada" alt="Transformando processos manuais em fluxos inteligentes"/>
+</p>
+
 ---
 
 ## 🌱 Aprendendo agora
@@ -75,10 +79,6 @@ Sou formada em **Análise e Desenvolvimento de Sistemas**, moro em **São Paulo/
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ingridfsantos04&hide_border=true&theme=transparent" alt="Sequência de contribuições"/>
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/3FB950/ingridfsantos04" alt="Gráfico de contribuições"/>
 </p>
 
 <p align="center">
