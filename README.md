@@ -25,13 +25,32 @@ Sou formada em **Análise e Desenvolvimento de Sistemas**, moro em **São Paulo/
 
 ## 🎯 Foco profissional
 
-| Área | Atuação |
-|:---|:---|
-| 🎙️ **Agentes de voz** | Assistentes com conversas naturais, criados com ElevenLabs e LLMs |
-| 🤖 **Agentes de texto** | Chatbots com comportamento definido por prompts estruturados |
-| ✍️ **Engenharia de Prompt** | Instruções claras e consistentes para respostas confiáveis |
-| ⚡ **Automação** | Processos manuais convertidos em fluxos automatizados com n8n |
-| 🔌 **Integração de APIs** | Testes, documentação e consumo de APIs com Postman |
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="300">
+      <h4>🎙️ Agentes de voz</h4>
+      Assistentes com conversas naturais, criados com ElevenLabs e LLMs
+    </td>
+    <td align="center" width="300">
+      <h4>✍️ Engenharia de Prompt</h4>
+      Instruções claras e consistentes para respostas confiáveis
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <h4>⚡ Automação</h4>
+      Processos manuais convertidos em fluxos automatizados com n8n
+    </td>
+    <td align="center" width="300">
+      <h4>🔌 Integração de APIs</h4>
+      Testes, documentação e consumo de APIs com Postman
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
