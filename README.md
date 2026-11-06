@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=3FB950&center=true&vCenter=true&width=600&height=40&lines=Analista+de+TI+%7C+IA+%26+Automa%C3%A7%C3%A3o;Agentes+de+IA+de+voz+e+texto;Workflows+inteligentes+com+n8n" alt="Analista de TI | IA e Automação"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=3FB950&center=true&vCenter=true&width=600&height=40&lines=Analista+de+TI+%7C+IA+%26+Automa%C3%A7%C3%A3o" alt="Analista de TI | IA e Automação"/>
 </p>
 
 ---
@@ -62,9 +62,6 @@ Sou formada em **Análise e Desenvolvimento de Sistemas**, moro em **São Paulo/
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=800&color=3FB950&center=true&vCenter=true&width=800&height=40&lines=Transformando+processos+manuais+em+fluxos+inteligentes;Aprendendo+sempre+sobre+IA+aplicada" alt="Transformando processos manuais em fluxos inteligentes"/>
-</p>
 
 ---
 
